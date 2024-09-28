@@ -1,4 +1,4 @@
-#Política de Privacidade do App TeamScore
+# Política de Privacidade do App TeamScore
 Esta Política de Privacidade descreve como o aplicativo TeamScore (desenvolvido por Devira) coleta, usa e compartilha informações dos usuários. Esta política está em conformidade com os requisitos do Google Play e se aplica a todos os usuários do aplicativo.
 
 1. Informações Coletadas
